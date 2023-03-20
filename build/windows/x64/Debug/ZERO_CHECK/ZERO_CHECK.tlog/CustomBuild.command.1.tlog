@@ -1,0 +1,10 @@
+^C:\USERS\DABAS\PIODA_WEB\BUILD\WINDOWS\CMAKEFILES\102C3E26FC447C189401A685F4F79F96\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/dabas/pioda_web/windows -BC:/Users/dabas/pioda_web/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dabas/pioda_web/build/windows/pioda_web.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

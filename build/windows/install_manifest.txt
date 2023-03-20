@@ -1,0 +1,14 @@
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/assets/city.png
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/assets/coffee.png
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/assets/sarawa.png
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/assets/sewing.png
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/dabas/pioda_web/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
